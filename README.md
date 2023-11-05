@@ -12,7 +12,6 @@ pip install git+https://github.com/Aaronlozhkin/Siamese-CV-Model
 
 Alternatively, open the notebook in Colab
 
-**CHANGE THIS**
 <a target="_blank" href="https://colab.research.google.com/github/Aaronlozhkin/Siamese-CV-Model/blob/main/SiameseCVModel.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
