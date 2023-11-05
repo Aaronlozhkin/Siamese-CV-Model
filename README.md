@@ -1,6 +1,6 @@
 # Siamese-CV-Model
 
-A Computer Vision deep learning model that learns to embed the context of an image by finetuning ResNet. Trained on the [Huggingface Snacks Dataset](https://huggingface.co/datasets/Matthijs/snacks), the Siamese CV Model will learn to distinguish ten distinct snacks from a variety of images. With this model, a similarity based reverse-image search engine is constructed.
+A computer vision deep learning model that learns to embed the context of an image by finetuning ResNet. Trained on the [Huggingface Snacks Dataset](https://huggingface.co/datasets/Matthijs/snacks), the Siamese CV Model will learn to distinguish ten distinct snacks from a variety of images. With this model, a similarity based reverse-image search engine is constructed.
 
 ## Installation
 
